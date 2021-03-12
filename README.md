@@ -4,6 +4,8 @@
 ###[수식 계산](notebooks/python/01_calculate.ipynb)
 ###[데이터리스트](notebooks/python/02_data_list.ipynb)
 ###[제어](notebooks/python/03_control.ipynb)
+###[함수](notebooks/python/04_function.ipynb)
+
 ## 2. 데이터 구조
 
 ## 3. 기초 통계와 분석
