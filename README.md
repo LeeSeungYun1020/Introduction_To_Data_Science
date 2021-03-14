@@ -5,8 +5,9 @@
 ###[데이터리스트](notebooks/python/02_data_list.ipynb)
 ###[제어](notebooks/python/03_control.ipynb)
 ### [함수](notebooks/python/04_function.ipynb)
-
 ### [파일](notebooks/python/05_file.ipynb)
+
+### [클래스](notebooks/python/06_class.ipynb)
 
 ## 2. 데이터 구조
 
